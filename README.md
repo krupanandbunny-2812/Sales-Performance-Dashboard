@@ -1,66 +1,120 @@
-# Sales-Performance-Dashboard
 📊 Sales Analytics Dashboard – Classic Models
-
 1. Project Title / Headline
-Classic Models Sales Performance Dashboard (Power BI)
-A concise, descriptive title highlighting the dataset and business focus.
+
+📊 Sales Analytics Dashboard: Classic Models Business Performance Insights
+
+A dynamic, interactive Power BI dashboard built to analyze Classic Models sales data—focusing on monthly sales trends, profitability, growth metrics, and management-level KPIs.
 
 2. Short Description / Purpose
-This interactive Power BI dashboard analyzes Classic Models sales data to track monthly sales performance, profit trends, and growth patterns. It is designed to help management quickly monitor business KPIs and make data-driven decisions.
+
+The Sales Analytics Dashboard is an interactive Power BI report designed to analyze Classic Models sales performance over time.
+It enables stakeholders to monitor monthly sales, month-over-month (MoM) growth, and net profit trends, supporting data-driven business decisions through clear and intuitive visualizations.
 
 3. Tech Stack
-List the key technologies used to build the dashboard.
+
 The dashboard was built using the following tools and technologies:
 
-Power BI Desktop – Primary data visualization and reporting tool
+📊 Power BI Desktop – Main data visualization platform used for report creation
 
-Power Query – Data cleaning, transformation, and shaping
+📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data
 
-DAX (Data Analysis Expressions) – Calculated measures, MoM % change, KPIs, and dynamic logic
+🧠 DAX (Data Analysis Expressions) – Used for calculated measures such as MoM % change, KPIs, and dynamic toggle logic
 
-Data Modeling – Relationships between fact and dimension tables for accurate analysis
+📝 Data Modeling – Relationships established between sales, products, customers, and date tables to enable accurate filtering and aggregation
+
+📁 File Format – .pbix for development and .png for dashboard previews
 
 4. Data Source
 
-More info on where the data comes from and how it’s structured.
-
 Source: Classic Models Sales Dataset
 
-The dataset contains historical sales transaction data including order dates, product details, sales amounts, and profit information. Data was structured into fact and dimension tables to enable efficient filtering, aggregation, and KPI calculations.
+The dataset contains historical sales transaction data including:
+
+Order dates and monthly time hierarchy
+
+Product, customer, and category information
+
+Sales revenue, quantity, and net profit metrics
+
+The data is structured into fact and dimension tables to support efficient aggregation, filtering, and KPI calculations.
 
 5. Features / Highlights
+• Business Problem
 
-The best dashboard explanation format.
+Sales and finance teams often rely on static reports, making it difficult to quickly track performance trends, compare revenue with profitability, and identify growth patterns across time.
 
-Business Problem
-Management needs a clear and interactive way to track sales performance, profitability, and monthly growth trends without relying on static reports.
+Key questions such as:
 
-Goal of the Dashboard
-To provide a single, dynamic view of sales and net profit performance with easy month-over-month comparison.
+How are monthly sales trending?
 
-Key Visuals Used (Briefly)
+Is profit growing at the same pace as revenue?
 
-Column charts for monthly sales trends
+Which months show positive or negative MoM growth?
 
-Line charts for MoM performance tracking
+How can management quickly switch between Sales and Profit views?
 
-Donut and bar charts for category-level insights
+…are difficult to answer without an interactive dashboard.
 
-Scatter plot to analyze sales vs profit relationships
+• Goal of the Dashboard
 
-KPI cards for quick performance summary
+To deliver an interactive visual tool that:
 
-Interactive Functionality
+Tracks monthly Sales and Net Profit performance
 
-Toggle buttons to switch between Sales and Net Profit views
+Highlights MoM % change to identify growth or decline
 
-Dynamic filters for flexible analysis
+Enables quick comparison between revenue and profitability
 
-Clean and executive-friendly layout for quick insights
+Supports executive-level monitoring through KPIs and clean design
 
-Business Impact & Insights
-The dashboard enables leadership to identify high-performing months, monitor profitability trends, and quickly compare sales vs net profit, supporting faster and more informed decision-making.
+• Walkthrough of Key Visuals
 
-6. Skills Demonstrated
+Key KPI Cards (Top Section)
 
-Power BI | DAX | Data Visualization | Business KPIs | Interactive Dashboards | Data Modeling
+Total Sales
+
+Total Net Profit
+
+Month-over-Month % Change
+
+Performance indicators for quick executive review
+
+Sales vs Net Profit Toggle Buttons
+
+Interactive buttons allow users to switch between Sales and Net Profit views
+
+Ensures focused analysis without clutter
+
+Monthly Trend Analysis (Line & Column Charts)
+
+Displays monthly performance trends
+
+Helps identify seasonality, peaks, and slow periods
+
+Category & Distribution Analysis (Bar & Donut Charts)
+
+Visual breakdown of sales contribution
+
+Easy comparison across categories or segments
+
+Sales vs Profit Relationship (Scatter Plot)
+
+Analyzes correlation between revenue and profitability
+
+Highlights high-revenue but low-profit scenarios
+
+• Business Impact & Insights
+
+Executive Decision Support: Leadership can quickly assess business health through KPIs
+
+Performance Monitoring: Identify months with strong or weak growth trends
+
+Profitability Analysis: Compare revenue performance against net profit
+
+Operational Insights: Support pricing, sales strategy, and performance reviews
+
+6. Screenshots / Demos
+
+Add screenshots of the dashboard here to showcase visuals and interactivity.
+
+Example: 
