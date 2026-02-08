@@ -1,7 +1,7 @@
-📊 Sales Analytics Dashboard – Classic Models
+Sales Analytics Dashboard – Classic Models
 1. Project Title / Headline
 
-📊 Sales Analytics Dashboard: Classic Models Business Performance Insights
+ Sales Analytics Dashboard: Classic Models Business Performance Insights
 
 A dynamic, interactive Power BI dashboard built to analyze Classic Models sales data—focusing on monthly sales trends, profitability, growth metrics, and management-level KPIs.
 
@@ -14,15 +14,15 @@ It enables stakeholders to monitor monthly sales, month-over-month (MoM) growth,
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop – Main data visualization platform used for report creation
+ Power BI Desktop – Main data visualization platform used for report creation
 
-📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data
+ Power Query – Data transformation and cleaning layer for reshaping and preparing the data
 
-🧠 DAX (Data Analysis Expressions) – Used for calculated measures such as MoM % change, KPIs, and dynamic toggle logic
+ DAX (Data Analysis Expressions) – Used for calculated measures such as MoM % change, KPIs, and dynamic toggle logic
 
-📝 Data Modeling – Relationships established between sales, products, customers, and date tables to enable accurate filtering and aggregation
+ Data Modeling – Relationships established between sales, products, customers, and date tables to enable accurate filtering and aggregation
 
-📁 File Format – .pbix for development and .png for dashboard previews
+ File Format – .pbix for development and .png for dashboard previews
 
 4. Data Source
 
