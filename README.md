@@ -119,3 +119,4 @@ Add screenshots of the dashboard here to showcase visuals and interactivity.
 
 Example: https://github.com/krupanandbunny-2812/Sales-Performance-Dashboard/blob/main/Snapshot%20of%20the%20Sales%20Performance%20Dashboard%20page%201.png
 
+https://github.com/krupanandbunny-2812/Sales-Performance-Dashboard/blob/main/Snapshot%20of%20the%20Sales%20Performance%20Dashboard%20page%202.png
