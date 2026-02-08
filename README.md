@@ -116,11 +116,8 @@ Operational Insights: Support pricing, sales strategy, and performance reviews
 6. Screenshots / Demos
 
 Show what the dashboard looks like. [Alt text](https://github.com/username/repo/assets/image.nos)
-
-Example: [Dashboard Preview](https://github.com/krupanandbunny-2812/Sales-Performance-Dashboard/blob/main/Snapshot%20of%20the%20Sales%20Performance%20Dashboard%20page%201%200.pn)
- [Dashboard Preview](https://github.com/krupanandbunny-2812/Sales-Performance-Dashboard/blob/main/Snapshot%20of%20the%20Sales%20Performance%20Dashboard%20page%202%200.png)
  ## 📸 Dashboard Snapshots
 
 ![Dashboard View 1](https://github.com/krupanandbunny-2812/Sales-Performance-Dashboard/blob/main/Snapshot%20of%20the%20Sales%20Performance%20Dashboard%20page%201%200.png)
-![Dashboard View 2]()
+![Dashboard View 2](https://github.com/krupanandbunny-2812/Sales-Performance-Dashboard/blob/main/Snapshot%20of%20the%20Sales%20Performance%20Dashboard%20page%202%200.png)
 
