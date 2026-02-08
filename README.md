@@ -121,6 +121,6 @@ Example: [Dashboard Preview](https://github.com/krupanandbunny-2812/Sales-Perfor
  [Dashboard Preview](https://github.com/krupanandbunny-2812/Sales-Performance-Dashboard/blob/main/Snapshot%20of%20the%20Sales%20Performance%20Dashboard%20page%202%200.png)
  ## 📸 Dashboard Snapshots
 
-![Dashboard View 1](Snapshot of the Sales Performance Dashboard page 1 0.png)
+![Dashboard View 1](https://github.com/krupanandbunny-2812/Sales-Performance-Dashboard/blob/main/Snapshot%20of%20the%20Sales%20Performance%20Dashboard%20page%201%200.png)
 ![Dashboard View 2]()
 
